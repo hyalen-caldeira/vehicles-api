@@ -1,4 +1,4 @@
-package us.hyalen.vehicles.api;
+package us.hyalen.vehicles.unit;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import java.util.List;

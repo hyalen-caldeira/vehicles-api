@@ -1,4 +1,4 @@
-package us.hyalen.vehicles.api;
+package us.hyalen.vehicles.unit;
 
 import us.hyalen.vehicles.domain.car.Car;
 import org.springframework.hateoas.Resource;

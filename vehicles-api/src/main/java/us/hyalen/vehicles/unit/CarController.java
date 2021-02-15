@@ -1,4 +1,4 @@
-package us.hyalen.vehicles.api;
+package us.hyalen.vehicles.unit;
 
 
 import static org.springframework.hateoas.mvc.ControllerLinkBuilder.linkTo;

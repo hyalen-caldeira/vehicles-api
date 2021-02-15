@@ -1,4 +1,4 @@
-package us.hyalen.vehicles.api;
+package us.hyalen.vehicles.unit;
 
 import java.util.List;
 import java.util.stream.Collectors;
