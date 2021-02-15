@@ -1,6 +1,5 @@
-package com.udacity.boogle.maps;
+package us.hyalen.vehicles.client.maps;
 
-import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
@@ -8,10 +7,8 @@ import lombok.NoArgsConstructor;
  * Declares a class to store an address, city, state and zip code.
  */
 @Data
-@AllArgsConstructor
 @NoArgsConstructor
 public class Address {
-
     private String address;
     private String city;
     private String state;
